@@ -8,3 +8,4 @@ The CI/CD pipeline encompasses various essential components. Initially, Jenkins 
 
 For deployment, a Kubernetes cluster is created using Minikube, and the ArgoCD operator is installed. This setup allows for automatic monitoring of the corresponding GitHub repository and efficient deployment of any detected changes to the cluster. This approach guarantees synchronization and streamlined updates.
 
+![253913588-0f898094-fabb-4ac1-a2fe-cf81dfb1b2a4](https://github.com/gurudevsinghsandhu/Jenkins_project/assets/144236322/148a469f-9693-4d5c-bf55-a976faa69e86)
